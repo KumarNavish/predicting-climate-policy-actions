@@ -1,7 +1,7 @@
 #  Predicting future climate policy actions: an analysis using AI & ML techniques
 
 
-This is the software repository accompanying my report **Predicting future climate policy actions: an analysis using AI & ML techniques**
+This is the software repository for files related to my MTP project on **Predicting future climate policy actions: an analysis using AI & ML techniques**
 
 This reposiroty contains all the software for reproducing the paper, and some sample documents.
 
