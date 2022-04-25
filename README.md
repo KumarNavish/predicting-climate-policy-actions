@@ -5,8 +5,6 @@ This is the software repository accompanying my report **Predicting future clima
 
 This reposiroty contains all the software for reproducing the paper, and some sample documents.
 
-Due to its size, the full dataset has been made available separately via Zenodo, [here](https://doi.org/10.5281/zenodo.3911168). The software comes with a subset of the full dataset, and can be demonstrated without any additional changes. 
-
 ## Notes
 Do not change the names of any folders or files before finishing the pipeline, as the scripts look in folders with these specific names.
 
