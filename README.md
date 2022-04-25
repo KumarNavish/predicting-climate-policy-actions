@@ -3,6 +3,8 @@
 
 This is the software repository for files related to my MTP project on **Predicting future climate policy actions: an analysis using AI & ML techniques**
 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/IIT_Kharagpur_Logo.svg/1200px-IIT_Kharagpur_Logo.svg.png" width="200" height="200" />
+
 This reposiroty contains all the software for reproducing the paper, and some sample documents.
 
 ## Notes
