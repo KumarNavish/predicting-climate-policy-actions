@@ -8,7 +8,7 @@ This is the software repository for files related to my MTP project on **Predict
 ## Notes
 Do not change the names of any folders or files before finishing the pipeline, as the scripts look in folders with these specific names.
 
-Step 1:  
+* **Step 1:**
 
 In the folder 'PDF_files' the following PDF documents are contained.  
 'Adaptation policy documents' - Training data for adaptation policies  
@@ -16,7 +16,7 @@ In the folder 'PDF_files' the following PDF documents are contained.
 'Non-climate policy documents' - Training data for non-climate documents  
 'Mixed policy documents' - Testing data, any PDF document(s) you want to predict on.  
 
-Step 2:  
+* **Step 2:** 
 In the folder 'Python Scripts' every script in the pipeline is contained.  
 
 ### Main pipeline  
